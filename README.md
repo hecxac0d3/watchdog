@@ -1,5 +1,5 @@
 #
-Mo ta ve cac module. He thong gom 3 module chinh:
+Watchdog tool have three module:
 - Snapshot: 
 	+ Input: Doc file configurations lay danh sach cac thu muc va file xe monitoring.
 	+ Output: write file hash + time to db.json file
@@ -10,5 +10,5 @@ Mo ta ve cac module. He thong gom 3 module chinh:
 	+ Input: List all changed file, list admin
 	+ Output: sms/msg send to list admin
 
----------------------------------
-Langguage Python
+[-] Tool writein python
+[-] free for everyone
