@@ -1,0 +1,34 @@
+{
+	"abc.com":[
+	  {
+	    "path":"/var/www/abc.com/index.php",
+	    "hash_current":"97bc592b27a9ada2d9a4bb418ed0ebed",
+	    "hash_new":"149603e6c03516362a8da23f624db945",
+	    "modifile_time":"milisecond time format",
+	    "time_create":"milisecond time format"
+	  },
+	  {
+	    "path":"/var/www/abc.com/index.php",
+	    "hash_current":"97bc592b27a9ada2d9a4bb418ed0ebed",
+	    "hash_new":"149603e6c03516362a8da23f624db945",
+	    "modifile_time":"milisecond time format",
+	    "time_create":"milisecond time format"
+	  }
+	  ],
+	"cdf.com":[
+	  {
+	    "file_path":"/var/www/cdf.com/index.php",
+	    "hash_current":"97bc592b27a9ada2d9a4bb418ed0ebed",
+	    "hash_new":"149603e6c03516362a8da23f624db945",
+	    "modifile_time":"milisecond time format",
+	    "time_create":"milisecond time format"
+	  },
+	  {
+	    "file_path":"/var/www/ghk.com/index.php",
+	    "hash_current":"97bc592b27a9ada2d9a4bb418ed0ebed",
+	    "hash_new":"149603e6c03516362a8da23f624db945",
+	    "modifile_time":"milisecond time format",
+	    "time_create":"milisecond time format"
+	  }
+	  ]
+}
