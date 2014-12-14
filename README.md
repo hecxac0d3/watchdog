@@ -1,5 +1,5 @@
 #
-Watchdog tool have three module:
+Watchdog tool have three main module:
 - Snapshot: 
 	+ Input: Detection montioring folder from config.cnf file.
 	+ Output: write hash file, time modify file to db.json.
