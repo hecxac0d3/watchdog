@@ -1,0 +1,17 @@
+# Configuration file
+# PATH MONITORING
+monitoring = "/var/www"
+
+# Administrator
+admin = "hexacode@gmail.com, abc@gmail.com, ...."|"ALL"
+
+# admin vhost
+admin_abc.com = "abcd@gmail.com, adbc@gmail.com,..."|"abc.com, cdf.com"
+admin_cdef.com = "abcd1@gmail.com, adbc@gmail.com,..."|"abc.com, cdf.com"
+
+# Ignore folder
+ignore_folder = "/var/www/abc.com, /var/www/cdef.com"
+ignore_ext = ".png, .jpg, .cache, .session"
+
+# Time scan file/folder default seconds.
+time = 120
